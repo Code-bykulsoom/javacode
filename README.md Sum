@@ -1,7 +1,7 @@
 # javacode
 
 import java.util.*;
-class Club
+class Sum
 {
     public static void main()
     {
