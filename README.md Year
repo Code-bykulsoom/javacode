@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Tech
+class Year
 {
     public static void main()
 {
